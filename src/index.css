@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+html,
+body {
+  height: 100vh;
+  margin: 0;
+  line-height: normal;
+  font-family: Mulish !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.input-error {
+  border-color: red;
+}
+
+:root {
+  /* fonts */
+  --body-text-normal-16: Inter;
+  --font-bodoni-moda: "Bodoni Moda";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --body-text-normal-16-size: 16px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --grey-50: #f9fafb;
+  --grey-100: #f2f4f7;
+  --white: #fff;
+  --primary-color: #b5179e;
+  --color-black: #000;
+  --teal-100: #ccfbf1;
+  --teal-200: #99f6e4;
+  --teal-500: #14b8a6;
+  --blue-1: #2f80ed;
+  --main-text: #101828;
+  --grey-400: #98a2b3;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-xl: 20px;
+  --gap-21xl: 40px;
+  --gap-3xs: 10px;
+  --gap-12xs: 1px;
+  --gap-6xs: 7px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-20xl: 39px;
+  --padding-5xl: 24px;
+  --padding-12xs: 1px;
+  --padding-38xl: 57px;
+  --padding-9xl: 28px;
+  --padding-7xs: 6px;
+  --padding-9xs: 4px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-980xl: 999px;
+
+  /* Effects */
+  --bottom-card-shadow-light: 0px 4px 8px rgba(0, 0, 0, 0.04);
+}

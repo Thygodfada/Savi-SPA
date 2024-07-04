@@ -1,0 +1,11 @@
+<svg width="51" height="50" viewBox="0 0 51 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="shield-alt">
+<path id="Icon" d="M42.1666 12.5C42.1666 12.5 40.4672 12.5 40.0835 12.5C34.3919 12.5 29.4313 10.2809 25.4998 6.25C21.5683 10.2808 16.6082 12.5 10.9168 12.5C10.533 12.5 8.83345 12.5 8.83345 12.5C8.83345 12.5 8.83325 16.6667 8.83325 19.0961C8.83325 30.9575 15.9153 40.9241 25.4999 43.75C35.0845 40.9241 42.1666 30.9575 42.1666 19.0961C42.1666 16.6667 42.1666 12.5 42.1666 12.5Z" stroke="url(#paint0_linear_54_802)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_54_802" x1="25.4999" y1="6.25" x2="25.4999" y2="43.75" gradientUnits="userSpaceOnUse">
+<stop offset="0.557292" stop-color="#131A29"/>
+<stop offset="1" stop-color="#B5179E"/>
+</linearGradient>
+</defs>
+</svg>
